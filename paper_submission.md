@@ -21,7 +21,7 @@ For submission of papers, please use the OpenReview.net site at: _(to be announc
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two PC members.
 
-Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. Authors of accepted papers are expected to present their work in person by default. Exceptions may be granted by the organizing committee on a case-by-case basis, and authors who receive such exceptions may present their work online, provided they register for the workshop. Presentations will be delivered in the Eastern Time Zone.
+Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will attend the workshop to present the work. Authors of accepted papers are expected to present their work in person by default. Exceptions may be granted by the organizing committee on a case-by-case basis, and authors who receive such exceptions may present their work online, provided they register for the workshop. Presentations will be delivered in the Eastern European Time.
 
 ### Proceedings
 
