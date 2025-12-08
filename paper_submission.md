@@ -12,12 +12,12 @@ For preparation of papers please follow the instructions for authors available a
 We solicit three types of papers in the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines):
 - Full research papers (16 pages, excluding references)
 - Short research papers (10 pages, excluding references) – These "early-innovation" papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
-- Blue sky ideas (up to 16 pages, excluding references) – These papers have the same scope of the blue sky ideas track of AAMAS 2025 (see [https://aamas2025.org/index.php/conference/calls/call-for-blue-sky-ideas/](https://aamas2025.org/index.php/conference/calls/call-for-blue-sky-ideas/)), focussing on the COINE topics
+- Blue sky ideas (up to 16 pages, excluding references) – These papers have the same scope of the blue sky ideas track of AAMAS 2025 (see [https://cyprusconferences.org/aamas2026/call-for-blue-sky-ideas/](https://cyprusconferences.org/aamas2026/call-for-blue-sky-ideas/)), focusing on the COINE topics
 
 
 All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
-For submission of papers, please use the OpenReview.net site at: [https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/COINE](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/COINE)
+For submission of papers, please use the OpenReview.net site at: _(to be announced soon)_
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two PC members.
 

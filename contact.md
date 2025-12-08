@@ -5,10 +5,8 @@ title: COINE
 
 # Contact
 
-For any questions about COINE 2025 @ AAMAS, please send an e-mail to
+For any questions about COINE 2026 @ AAMAS, please send an e-mail to
 
-[Jaime Simão Sichman](mailto:jaime.sichman@usp.br) (University of São Paulo, Brazil)
+[Pradeep Murukannaiah](mailto:P.K.Murukannaiah@tudelft.nl) (TU Delft, The Netherlands)
 
-[Davide Dell'Anna](mailto:d.dellanna@uu.nl) (Utrecht University, The Netherlands)
-
-[Sz-Ting (Christine) Tzeng](mailto:stzeng@cs.umu.se) (Umeå University, Sweden)
+[Elena Yan](mailto:elena.yan@emse.fr) (MINES Saint Étienne, France)

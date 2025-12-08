@@ -5,20 +5,20 @@ title: COINE
 
 # Call for Papers
 
-COINE 2025 is co-located with the International Conference on Autonomous Agents and
-Multiagent Systems (AAMAS), Detroit, Michigan, USA, 19 May-23 May 2025 ([https://aamas2025.org/](https://aamas2025.org/))
+COINE 2026 is co-located with the International Conference on Autonomous Agents and
+Multiagent Systems (AAMAS), Paphos, Cyprus, 25 May-29 May 2026 ([https://cyprusconferences.org/aamas2026/](https://cyprusconferences.org/aamas2026/))
 
 ### Important Dates
-- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2025</span> <span style="color:red; text-decoration: line-through;">February 11th, 2025</span> <span style="color:red; text-decoration: line-through;"> February 22nd, 2025</span> **February 25th, 2025 AoE (EXTENDED)**
-- Author notifications: <span style="text-decoration: line-through;">March 10th, 2025</span> March 21st, 2025
-- Camera-ready deadline: <span style="text-decoration: line-through;">March 30th, 2025</span> April 22nd, 2025 AoE
-- Workshop: May 20th, 2025
+- Paper submission: February 4th, 2026 AoE
+- Author notifications: March 10th, 2026 AoE
+- Camera-ready deadline: March 30th, 2026 AoE
+- Workshop: May 25th or 26th, 2026
 
 ### Overview
 
 The growing pervasiveness of “open systems” raises a range of challenges and opportunities for developing technologies in the area of autonomous agents and multi-agent systems (MAS). In open MAS, artificial and human autonomous agents, their modes of interaction and the pursued goal of the system may change over time. The view of coordination and control has to be expanded to consider not only an agent-centric perspective but societal and organization-centric views as well. Moreover, in the case of open multi-agent systems, the autonomy of the agents can work against the effectiveness of the system and of the society. There is therefore a need for tools and techniques for articulating interactions in order to make MAS more effective in attaining collective goals, aligning agent behaviors with shared human values, and more trustworthy, predictable and understandable for humans.
 
-Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. COINE is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (17 times), IJCAI (twice), AAAI in 2008 and ECAI in 2006 and 2016 (see [Workshop Series Website](http://www2.pcs.usp.br/~coin)), and produced 17 volumes of post-proceedings in Springer’s Lecture Notes in Artificial Intelligence. In 2020, ethics was added to the name and acronym (now COINE), and also the notion of governance of MAS was added to the full workshop title as this is the common objective uniting the various threads of research (coordination, organizations, etc.) undertaken. The workshop in the new format has been held five times (2020--2024).
+Coordination, organizations, institutions, norms and ethics are five key governance elements for the regulation of open multi-agent systems. COINE is an evolution of the COIN (Coordination, Organizations, Institutions and Norms in Agent Systems) workshop series that ran at various conferences including AAMAS (18 times), IJCAI (twice), AAAI in 2008 and ECAI in 2006 and 2016 (see [Workshop Series Website](http://www2.pcs.usp.br/~coin)), and produced 17 volumes of post-proceedings in Springer’s Lecture Notes in Artificial Intelligence. The 18th volume of COINE post-proceedings is in progress. In 2020, ethics was added to the name and acronym (now COINE), and also the notion of governance of MAS was added to the full workshop title as this is the common objective uniting the various threads of research (coordination, organizations, etc.) undertaken. The workshop in the new format has been held six times (2020--2025).
 
 Continuing this tradition, the goal of the COINE workshop is to bring together researchers in autonomous agents and multi-agent systems working on the scientific and technological aspects of social coordination, organizational theory, normative MAS, artificial or electronic institutions, and agents aware of norms, policies, and ethics.
 
@@ -40,12 +40,12 @@ For preparation of papers please follow the instructions for authors available a
 We solicit three types of papers in the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines):
 - Full research papers (16 pages, excluding references)
 - Short research papers (10 pages, excluding references) – These 'early-innovation' papers are work-in-progress papers and these will be reviewed with an emphasis on novelty/originality of the idea.
-- Blue sky ideas (up to 16 pages, excluding references) – These papers have the same scope of the blue sky ideas track of AAMAS 2025 (see [https://aamas2025.org/index.php/conference/calls/call-for-blue-sky-ideas/](https://aamas2025.org/index.php/conference/calls/call-for-blue-sky-ideas/)), focussing on the COINE topics
+- Blue sky ideas (up to 16 pages, excluding references) – These papers have the same scope of the blue sky ideas track of AAMAS 2026 (see [https://cyprusconferences.org/aamas2026/call-for-blue-sky-ideas/](https://cyprusconferences.org/aamas2026/call-for-blue-sky-ideas/)), focusing on the COINE topics
 
 
 All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
-For submission of papers, please use the OpenReview.net site at: [https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/COINE](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/COINE)
+For submission of papers, please use the OpenReview.net site at: _(to be announced soon)_
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two PC members.
 
