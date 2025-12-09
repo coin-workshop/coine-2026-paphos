@@ -45,7 +45,7 @@ We solicit three types of papers in the [LNCS format](https://www.springer.com/g
 
 All papers must be written in English and submitted in PDF format. __*Information about the paper type should be included at the end of the title of the paper – (Full), (Short) or (Blue Sky ideas).*__
 
-For submission of papers, please use the OpenReview.net site at: _(to be announced soon)_
+For submission of papers, please use the OpenReview.net site at: _To be announced soon_
 
 Submitted papers will be reviewed on a "single-blind" basis by at least two PC members.
 

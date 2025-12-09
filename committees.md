@@ -7,7 +7,7 @@ title: COINE
 
 ## COINE@AAMAS2026 Co-Chairs
 
-- [Pradeep Murukannaiah](mailto:P.K.Murukannaiah@tudelft.nl) (TU Delft, The Netherlands)
+- [Pradeep K. Murukannaiah](mailto:P.K.Murukannaiah@tudelft.nl) (TU Delft, The Netherlands)
 - [Elena Yan](mailto:elena.yan@emse.fr) (MINES Saint Étienne, France)
 
 ## Programme Committee

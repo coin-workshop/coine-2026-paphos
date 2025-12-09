@@ -106,5 +106,5 @@ for inclusion in the post-proceedings volume.
 -------------------------------------------------------------------------------------
 COINE 2026  CO-CHAIRS
 -------------------------------------------------------------------------------------
-- [Pradeep Murukannaiah](mailto:P.K.Murukannaiah@tudelft.nl) (TU Delft, The Netherlands)
+- [Pradeep K. Murukannaiah](mailto:P.K.Murukannaiah@tudelft.nl) (TU Delft, The Netherlands)
 - [Elena Yan](mailto:elena.yan@emse.fr) (MINES Saint Étienne, France)
