@@ -5,7 +5,7 @@ title: COINE
 
 
 # Important Dates
-- Paper submission: February 4th, 2026 AoE
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2026 AoE</span> <span style="color:red">**February 18th, 2026 AoE (EXTENDED)**</span>
 - Author notifications: March 10th, 2026 AoE
 - Camera-ready deadline: March 30th, 2026 AoE
 - Workshop: May 25th or 26th, 2026
