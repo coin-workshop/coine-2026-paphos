@@ -9,7 +9,7 @@ COINE 2026 is co-located with the International Conference on Autonomous Agents 
 Multiagent Systems (AAMAS), Paphos, Cyprus, 25 May-29 May 2026 ([https://cyprusconferences.org/aamas2026/](https://cyprusconferences.org/aamas2026/))
 
 ### Important Dates
-- Paper submission: <span style="color:red; text-decoration: line-through;"><span style="color:red; text-decoration: line-through;">February 4th, 2026 AoE</span> <span style="color:red">**February 18th, 2026 AoE**</span></span><span style="color:red">**February 23rd, 2026 AoE (EXTENDED)**</span>
+- Paper submission: <span style="color:red; text-decoration: line-through;">February 4th, 2026 AoE</span> <span style="color:red; text-decoration: line-through;">February 18th, 2026 AoE</span> **February 23rd, 2026 AoE (EXTENDED)**
 - Author notifications: March 10th, 2026 AoE
 - Camera-ready deadline: March 30th, 2026 AoE
 - Workshop: May 25th or 26th, 2026
