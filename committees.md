@@ -42,3 +42,4 @@ title: COINE
 - Laurent  Vercouter (INSA de Rouen, France)
 - Vahid Yazdanpanah (University of Southampton, UK)
 - Pinar Yolum Utrecht (University, The Netherlands)
+- Tomasz Zurek (University of Amsterdam, The Netherlands)
