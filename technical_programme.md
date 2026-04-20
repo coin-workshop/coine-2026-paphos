@@ -9,7 +9,7 @@ title: COINE
 <b>IMPORTANT:</b> The schedule times are Eastern European Summer Time time (UTC+3)
 
 - Full papers are up to 15 minutes (up to 12 minutes of presentation and 3 minutes of questions)
-- Short papers and blue-sky papers are up to 15 minutes (up to 8 minutes of presentation and 2 minutes of questions)
+- Short papers and blue-sky papers are up to 10 minutes (up to 8 minutes of presentation and 2 minutes of questions)
 
 
 <table id="coine2024-schedule">
