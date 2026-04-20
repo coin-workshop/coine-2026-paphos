@@ -117,15 +117,15 @@ title: COINE
       <td align="left" valign="top"><b>Privacy for Everyone: Learning to Respect Privacy in Multi-party Content Sharing</b><br/><i>Hüseyin Aydın, Alper Demir, Pinar Yolum</i></td>
     </tr>
     <tr>
-      <td align="left" valign="top">16h40 - 16h50</td>
+      <td align="left" valign="top">16h40 - 16h55</td>
       <td align="left" valign="top"><b>Reframing Interpretability, Transparency, and Explainability for Multi-Agent Systems</b><br/><i>Jessica Woodgate, Daniel Collins, Yining Yuan, Nirav Ajmeri</i></td>
     </tr>
     <tr>
-      <td align="left" valign="top">16h50 - 17h00</td>
+      <td align="left" valign="top">16h55 - 17h05</td>
       <td align="left" valign="top"><b>Perspectives on the Explanation of Organizations in Multi-Agent Systems (Blue Sky)</b><br/><i>Elena Yan, Luis Gustavo Nardin, Alessandro Ricci, Samuele Burattini, Guillaume Muller, Jomi Fred Hubner, Jaime Simão Sichman, Olivier Boissier</i></td>
     </tr>
     <tr>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top">17h00 - 17h30</td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top">17h05 - 17h30</td>
       <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Reflections (Topics to be finalized) and Closing Session</b></td>
     </tr>
   </tbody>
