@@ -25,11 +25,11 @@ title: COINE
       <td align="left" valign="top"><b>Exploring Measures of Agentic Power for Organisational Workflow Structures</b><br/><i>Andrea Marino, L. Thomas van Binsbergen, Tom van Engers, Giovanni Sileno</i></td>
     </tr>
     <tr>
-      <td align="left" valign="top">9h20 - 9h35</td>
+      <td align="left" valign="top">9h20 - 9h30</td>
       <td align="left" valign="top"><b>Governing AI Economic Agency: A Coupled Design Space (Blue Sky)</b> <br/><i>Elsa Donnat</i></td>
     </tr>
       <tr>
-      <td align="left" valign="top">9h35 - 9h45</td>
+      <td align="left" valign="top">9h30 - 9h45</td>
       <td align="left" valign="top"><b>Agent Contracts: A Formal Framework for Resource-Bounded Autonomous AI Systems</b> <br/><i>Qing Ye, Jing Tan</i></td>
     </tr>
     <tr>
