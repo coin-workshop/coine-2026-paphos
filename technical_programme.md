@@ -5,7 +5,7 @@ title: COINE
 
 # Program
 
-<b>IMPORTANT:</b> The schedule times are in Cyprus time (Eastern European Summer Time, UTC+3)
+<b>IMPORTANT:</b> The schedule times are in Cyprus time (Eastern European Summer Time, UTC+3). Please note that this is a tentative schedule; if you notice any issues, please contact us as soon as possible. Also, please check the website regularly, as there may be updates.
 
 - Full papers are up to 15 minutes (up to 12 minutes of presentation and 3 minutes of questions)
 - Short papers and blue-sky papers are up to 10 minutes (up to 8 minutes of presentation and 2 minutes of questions)
@@ -46,23 +46,23 @@ title: COINE
     </tr>
     <tr>
       <td style="background-color: darkgray;" align="left" valign="top"><b>11h00 - 12h30</b></td>
-      <td style="background-color: darkgray;" align="left" valign="top"><b>Session 2: Norms, Values, and Policies</b></td>
+      <td style="background-color: darkgray;" align="left" valign="top"><b>Session 2: Values, Norms, and Policies</b></td>
     </tr>
     <tr>
       <td align="left" valign="top">11h00 - 11h15</td>
-      <td align="left" valign="top"><b>Large Language Models Exhibit Normative Conformity</b><br/><i>Mikako Bito, Keita Nishimoto, Kimitaka Asatani, Ichiro Sakata</i></td>
+      <td align="left" valign="top"><b>CAVA: Contextual Argumentation for Value-based Assessment</b><br/><i>Jack Alexander McKinlay, Janina Anna Hoffmann, Andreas Theodorou, Marina De Vos</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">11h15 - 11h30</td>
-      <td align="left" valign="top"><b>Anticipatory Thinking in Normative Contexts</b><br/><i>Jomi Fred Hubner, Elena Yan, Luis Gustavo Nardin, Olivier Boissier</i></td>
+      <td align="left" valign="top"><b>Large Language Models Exhibit Normative Conformity</b><br/><i>Mikako Bito, Keita Nishimoto, Kimitaka Asatani, Ichiro Sakata</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">11h30 - 11h45</td>
-      <td align="left" valign="top"><b>Constraint-driven abductive explanations as a mechanism for reflective normative reasoning</b> <br/><i>Nathan Lloyd, Peter R. Lewis</i></td>
+      <td align="left" valign="top"><b>Anticipatory Thinking in Normative Contexts</b><br/><i>Jomi Fred Hubner, Elena Yan, Luis Gustavo Nardin, Olivier Boissier</i></td>
     </tr>
         <tr>
       <td align="left" valign="top">11h45 - 12h00</td>
-      <td align="left" valign="top"><b>CAVA: Contextual Argumentation for Value-based Assessment</b><br/><i>Jack Alexander McKinlay, Janina Anna Hoffmann, Andreas Theodorou, Marina De Vos</i></td>
+      <td align="left" valign="top"><b>Constraint-driven abductive explanations as a mechanism for reflective normative reasoning</b> <br/><i>Nathan Lloyd, Peter R. Lewis</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">12h00 - 12h15</td>
@@ -82,7 +82,7 @@ title: COINE
     </tr>
     <tr>
       <td style="background-color: darkgray;" align="left" valign="top"><b>14h45 - 15h30</b></td>
-      <td style="background-color: darkgray;" align="left" valign="top"><b>Session 3: Ethics and Responsibility</b></td>
+      <td style="background-color: darkgray;" align="left" valign="top"><b>Session 3: Responsibility and Ethics</b></td>
     </tr>
     <tr>
       <td align="left" valign="top">14h45 - 15h00</td>
