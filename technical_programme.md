@@ -105,7 +105,7 @@ title: COINE
       <td style="background-color: black; color: white;" align="left" valign="top"><b>Coffee Break</b></td>
     </tr>
     <tr>
-      <td style="background-color: darkgray;" align="left" valign="top"><b>16h15 - 17h45</b></td>
+      <td style="background-color: darkgray;" align="left" valign="top"><b>16h15 - 17h05</b></td>
       <td style="background-color: darkgray;" align="left" valign="top"><b>Session 4: Trust, Privacy, and Explainability</b></td>
     </tr>
     <tr>
