@@ -22,23 +22,23 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top">9h05 - 9h20</td>
-      <td align="left" valign="top"><b>Exploring Measures of Agentic Power for Organisational Workflow Structures</b><br/><i>Andrea Marino, L. Thomas van Binsbergen, Tom van Engers, Giovanni Sileno</i></td>
+      <td align="left" valign="top"><b>Exploring Measures of Agentic Power for Organisational Workflow Structures</b><a href="./papers/paper_14.pdf"> [PDF]</a><br/><i>Andrea Marino, L. Thomas van Binsbergen, Tom van Engers, Giovanni Sileno</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">9h20 - 9h30</td>
-      <td align="left" valign="top"><b>Governing AI Economic Agency: A Coupled Design Space (Blue Sky)</b> <br/><i>Elsa Donnat</i></td>
+      <td align="left" valign="top"><b>Governing AI Economic Agency: A Coupled Design Space (Blue Sky)</b><a href="./papers/paper_13.pdf"> [PDF]</a> <br/><i>Elsa Donnat</i></td>
     </tr>
       <tr>
       <td align="left" valign="top">9h30 - 9h45</td>
-      <td align="left" valign="top"><b>Agent Contracts: A Formal Framework for Resource-Bounded Autonomous AI Systems</b> <br/><i>Qing Ye, Jing Tan</i></td>
+      <td align="left" valign="top"><b>Agent Contracts: A Formal Framework for Resource-Bounded Autonomous AI Systems</b><a href="./papers/paper_1.pdf"> [PDF]</a> <br/><i>Qing Ye, Jing Tan</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">9h45 - 10h00</td>
-      <td align="left" valign="top"><b>LLM-augmented Empirical Game Theoretic Simulation for Social-Ecological Systems</b> <br/><i>Jennifer Shi, Christopher K. Frantz, Christian Kimmich, Saba Siddiki, Atrisha Sarkar</i></td>
+      <td align="left" valign="top"><b>LLM-augmented Empirical Game Theoretic Simulation for Social-Ecological Systems</b><a href="./papers/paper_10.pdf"> [PDF]</a> <br/><i>Jennifer Shi, Christopher K. Frantz, Christian Kimmich, Saba Siddiki, Atrisha Sarkar</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">10h00 - 10h15</td>
-      <td align="left" valign="top"><b>Why Open Source? A Game-Theoretic Analysis of the AI Race</b> <br/><i>Andjela Mladenovic, Aaron Courville, Gauthier Gidel</i></td>
+      <td align="left" valign="top"><b>Why Open Source? A Game-Theoretic Analysis of the AI Race</b><a href="./papers/paper_24.pdf"> [PDF]</a> <br/><i>Andjela Mladenovic, Aaron Courville, Gauthier Gidel</i></td>
     </tr>
     <tr>
       <td style="background-color: black; color: white;" align="left" valign="top"><b>10h15 - 11h00</b></td>
@@ -50,23 +50,23 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top">11h00 - 11h15</td>
-      <td align="left" valign="top"><b>CAVA: Contextual Argumentation for Value-based Assessment</b><br/><i>Jack Alexander McKinlay, Janina Anna Hoffmann, Andreas Theodorou, Marina De Vos</i></td>
+      <td align="left" valign="top"><b>CAVA: Contextual Argumentation for Value-based Assessment</b><a href="./papers/paper_17.pdf"> [PDF]</a><br/><i>Jack Alexander McKinlay, Janina Anna Hoffmann, Andreas Theodorou, Marina De Vos</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">11h15 - 11h30</td>
-      <td align="left" valign="top"><b>Large Language Models Exhibit Normative Conformity</b><br/><i>Mikako Bito, Keita Nishimoto, Kimitaka Asatani, Ichiro Sakata</i></td>
+      <td align="left" valign="top"><b>Large Language Models Exhibit Normative Conformity</b><a href="./papers/paper_15.pdf"> [PDF]</a><br/><i>Mikako Bito, Keita Nishimoto, Kimitaka Asatani, Ichiro Sakata</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">11h30 - 11h45</td>
-      <td align="left" valign="top"><b>Anticipatory Thinking in Normative Contexts</b><br/><i>Jomi Fred Hubner, Elena Yan, Luis Gustavo Nardin, Olivier Boissier</i></td>
+      <td align="left" valign="top"><b>Anticipatory Thinking in Normative Contexts</b><a href="./papers/paper_3.pdf"> [PDF]</a><br/><i>Jomi Fred Hubner, Elena Yan, Luis Gustavo Nardin, Olivier Boissier</i></td>
     </tr>
         <tr>
       <td align="left" valign="top">11h45 - 12h00</td>
-      <td align="left" valign="top"><b>Constraint-driven abductive explanations as a mechanism for reflective normative reasoning</b> <br/><i>Nathan Lloyd, Peter R. Lewis</i></td>
+      <td align="left" valign="top"><b>Constraint-driven abductive explanations as a mechanism for reflective normative reasoning</b><a href="./papers/paper_18.pdf"> [PDF]</a> <br/><i>Nathan Lloyd, Peter R. Lewis</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">12h00 - 12h15</td>
-      <td align="left" valign="top"><b>Social norm dynamics in a behavioral epidemic model</b><br/><i>Christos Charalambous</i></td>
+      <td align="left" valign="top"><b>Social norm dynamics in a behavioral epidemic model</b><a href="./papers/paper_5.pdf"> [PDF]</a><br/><i>Christos Charalambous</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">12h15 - 12h30</td>
@@ -86,19 +86,19 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top">14h45 - 15h00</td>
-      <td align="left" valign="top"><b>Filling Causal Responsibility Gaps in Spatial Interactions using Feasible Action-Space Reduction by Groups</b><br/><i>Vassil Guenov, Ashwin George, Arkady Zgonnikov, David A. Abbink, Luciano Cavalcante Siebert</i></td>
+      <td align="left" valign="top"><b>Filling Causal Responsibility Gaps in Spatial Interactions using Feasible Action-Space Reduction by Groups</b><a href="./papers/paper_23.pdf"> [PDF]</a><br/><i>Vassil Guenov, Ashwin George, Arkady Zgonnikov, David A. Abbink, Luciano Cavalcante Siebert</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">15h00 - 15h10</td>
-      <td align="left" valign="top"><b>Ethical Non-Closure Under Agentication: Why Action-Level Frameworks Fail for Trajectory-Producing Systems (Blue Sky)</b><br/><i>Matthew Stewart</i></td>
+      <td align="left" valign="top"><b>Ethical Non-Closure Under Agentication: Why Action-Level Frameworks Fail for Trajectory-Producing Systems (Blue Sky)</b><a href="./papers/paper_2.pdf"> [PDF]</a><br/><i>Matthew Stewart</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">15h10 - 15h20</td>
-      <td align="left" valign="top"><b>Benchmarking Machine Ethics (Blue Sky)</b> <br/><i>Louise A. Dennis, Marija Slavkovik, Xin Quan</i></td>
+      <td align="left" valign="top"><b>Benchmarking Machine Ethics (Blue Sky)</b> <a href="./papers/paper_11.pdf"> [PDF]</a><br/><i>Louise A. Dennis, Marija Slavkovik, Xin Quan</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">15h20 - 15h30</td>
-      <td align="left" valign="top"><b>Bayesian Game-Theoretic Modeling of Pedestrian-Autonomous Vehicle Interaction (Short Paper)</b> <br/><i>Dae-Hyun Yoo, Marija Slavkovik</i></td>
+      <td align="left" valign="top"><b>Bayesian Game-Theoretic Modeling of Pedestrian-Autonomous Vehicle Interaction (Short Paper)</b><a href="./papers/paper_12.pdf"> [PDF]</a> <br/><i>Dae-Hyun Yoo, Marija Slavkovik</i></td>
     </tr>
     <tr>
       <td style="background-color: black; color: white;" align="left" valign="top"><b>15h30 - 16h15</b></td>
@@ -110,11 +110,11 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top">16h15 - 16h25</td>
-      <td align="left" valign="top"><b>Theoretical and Empirical Evidence for Trust in Embodied Agents: Integrating Conscious Agent Theory and Computational Trust Models (Short Paper)</b><br/><i>Kevin Babashov, Maria Gini</i></td>
+      <td align="left" valign="top"><b>Theoretical and Empirical Evidence for Trust in Embodied Agents: Integrating Conscious Agent Theory and Computational Trust Models (Short Paper)</b><a href="./papers/paper_19.pdf"> [PDF]</a><br/><i>Kevin Babashov, Maria Gini</i></td>
     </tr>
         <tr>
       <td align="left" valign="top">16h25 - 16h40</td>
-      <td align="left" valign="top"><b>Privacy for Everyone: Learning to Respect Privacy in Multi-party Content Sharing</b><br/><i>Hüseyin Aydın, Alper Demir, Pinar Yolum</i></td>
+      <td align="left" valign="top"><b>Privacy for Everyone: Learning to Respect Privacy in Multi-party Content Sharing</b><a href="./papers/paper_8.pdf"> [PDF]</a><br/><i>Hüseyin Aydın, Alper Demir, Pinar Yolum</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">16h40 - 16h55</td>
@@ -122,7 +122,7 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top">16h55 - 17h05</td>
-      <td align="left" valign="top"><b>Perspectives on the Explanation of Organizations in Multi-Agent Systems (Blue Sky)</b><br/><i>Elena Yan, Luis Gustavo Nardin, Alessandro Ricci, Samuele Burattini, Guillaume Muller, Jomi Fred Hubner, Jaime Simão Sichman, Olivier Boissier</i></td>
+      <td align="left" valign="top"><b>Perspectives on the Explanation of Organizations in Multi-Agent Systems (Blue Sky)</b><a href="./papers/paper_16.pdf"> [PDF]</a><br/><i>Elena Yan, Luis Gustavo Nardin, Alessandro Ricci, Samuele Burattini, Guillaume Muller, Jomi Fred Hubner, Jaime Simão Sichman, Olivier Boissier</i></td>
     </tr>
     <tr>
       <td style="background-color: rgb(230, 230, 230);" align="left" valign="top">17h05 - 17h30</td>
