@@ -118,7 +118,7 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top">16h40 - 16h55</td>
-      <td align="left" valign="top"><b>Reframing Interpretability, Transparency, and Explainability for Multi-Agent Systems</b><br/><i>Jessica Woodgate, Daniel Collins, Yining Yuan, Nirav Ajmeri</i></td>
+      <td align="left" valign="top"><b>Re-Framing Transparency, Interpretability, and Explainability for Multi-Agent Systems</b><a href="./papers/paper_7.pdf"> [PDF]</a><br/><i>Jessica Woodgate, Daniel Collins, Yining Yuan, Nirav Ajmeri</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">16h55 - 17h05</td>

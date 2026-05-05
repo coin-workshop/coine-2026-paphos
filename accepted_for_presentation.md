@@ -14,7 +14,7 @@ robots: noindex
 *Authors:* Jomi Fred Hubner, Elena Yan, Luis Gustavo Nardin, Olivier Boissier
 - Social norm dynamics in a behavioral epidemic model [\[PDF\]]({{ site.path }}/papers/paper_5.pdf)  
 *Author:* Christos Charalambous
-- Reframing Interpretability, Transparency, and Explainability for Multi-Agent Systems \[PDF\]  
+- Re-Framing Transparency, Interpretability, and Explainability for Multi-Agent Systems [\[PDF\]]({{ site.path }}/papers/paper_7.pdf)  
 *Authors:* Jessica Woodgate, Daniel Collins, Yining Yuan, Nirav Ajmeri
 - Privacy for Everyone: Learning to Respect Privacy in Multi-party Content Sharing [\[PDF\]]({{ site.path }}/papers/paper_8.pdf)  
 *Authors:* Hüseyin Aydın, Alper Demir, Pinar Yolum
