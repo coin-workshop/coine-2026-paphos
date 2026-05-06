@@ -6,7 +6,7 @@ title: COINE
 # Keynote Speaker
 
 
-<img width="30%" style="margin: 1em; float: left" src="assets/image/pinar_photo.jpg" />
+<img width="40%" style="margin: 1em; float: left" src="assets/image/pinar_photo.jpg" />
 
 ### Operationalizing Responsible Autonomy in Human-AI Collaboration
 
