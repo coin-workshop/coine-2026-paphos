@@ -78,7 +78,7 @@ title: COINE
     </tr>
     <tr>
       <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>14h00 - 14h45</b></td>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Keynote</b><br/><b><a href="keynote.html">To be announced</a></b> <br/><i>Pinar Yolum</i></td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Keynote</b><br/><b><a href="keynote.html">Operationalizing Responsible Autonomy in Human-AI Collaboration</a></b> <br/><i>Pinar Yolum</i></td>
     </tr>
     <tr>
       <td style="background-color: darkgray;" align="left" valign="top"><b>14h45 - 15h30</b></td>
