@@ -41,5 +41,5 @@ title: COINE
 - Javier Vazquez-Salceda (Universitat Politècnica de Catalunya, Spain)
 - Laurent  Vercouter (INSA de Rouen, France)
 - Vahid Yazdanpanah (University of Southampton, UK)
-- Pinar Yolum Utrecht (University, The Netherlands)
+- Pinar Yolum (Utrecht University, The Netherlands)
 - Tomasz Zurek (University of Amsterdam, The Netherlands)
