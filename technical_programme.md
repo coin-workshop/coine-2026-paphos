@@ -5,7 +5,7 @@ title: COINE
 
 # Program
 
-<b>IMPORTANT:</b> The schedule times are in Cyprus time (Eastern European Summer Time, UTC+3). Please note that this is a tentative schedule; if you notice any issues, please contact us as soon as possible. Also, please check the website regularly, as there may be updates.
+<b>IMPORTANT:</b> The schedule times are in Cyprus time (Eastern European Summer Time, UTC+3).
 
 - Full papers are up to 15 minutes (up to 12 minutes of presentation and 3 minutes of questions)
 - Short papers and blue-sky papers are up to 10 minutes (up to 8 minutes of presentation and 2 minutes of questions)
