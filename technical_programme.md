@@ -7,6 +7,8 @@ title: COINE
 
 <b>IMPORTANT:</b> The schedule times are in Cyprus time (Eastern European Summer Time, UTC+3).
 
+<b>LOCATION:</b> <a href="https://cyprusconferences.org/aamas2026/venue/">Athena Room</a>
+
 - Full papers are up to 15 minutes (up to 12 minutes of presentation and 3 minutes of questions)
 - Short papers and blue-sky papers are up to 10 minutes (up to 8 minutes of presentation and 2 minutes of questions)
 
