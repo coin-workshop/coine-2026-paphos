@@ -15,7 +15,7 @@ title: COINE
 <table id="coine2024-schedule">
   <tbody>
     <tr>
-      <td align="left" valign="top" style="width: 17%;">9h00 - 9h05</td>
+      <td align="left" valign="top" style="width: 17%;">8h50 - 9h05</td>
       <td align="left" valign="top">Welcome and Opening</td>
     </tr>
     <tr>
