@@ -127,8 +127,8 @@ title: COINE
       <td align="left" valign="top"><b>Perspectives on the Explanation of Organizations in Multi-Agent Systems (Blue Sky)</b><a href="./papers/paper_16.pdf"> [PDF]</a><br/><i>Elena Yan, Luis Gustavo Nardin, Alessandro Ricci, Samuele Burattini, Guillaume Muller, Jomi Fred Hubner, Jaime Simão Sichman, Olivier Boissier</i></td>
     </tr>
     <tr>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top">17h05 - 17h30</td>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Reflections (Topics to be finalized) and Closing Session</b></td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top">17h05 - 17h45</td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b>Reflections and Closing Session</b></td>
     </tr>
   </tbody>
 </table>
