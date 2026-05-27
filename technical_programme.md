@@ -88,7 +88,7 @@ title: COINE
     </tr>
     <tr>
       <td align="left" valign="top">14h45 - 15h00</td>
-      <td align="left" valign="top"><b>Filling Causal Responsibility Gaps in Spatial Interactions using Feasible Action-Space Reduction by Groups</b><a href="./papers/paper_23.pdf"> [PDF]</a><br/><i>Vassil Guenov, Ashwin George, Arkady Zgonnikov, David A. Abbink, Luciano Cavalcante Siebert</i></td>
+      <td align="left" valign="top"><b>Filling Causal Responsibility Gaps in Spatial Interactions using Feasible Action-Space Reduction by Groups</b><a href="./papers/paper_23.pdf"> [PDF]</a><br/><i>Ashwin George, Vassil Guenov, Arkady Zgonnikov, David A. Abbink, Luciano Cavalcante Siebert</i></td>
     </tr>
     <tr>
       <td align="left" valign="top">15h00 - 15h10</td>
@@ -128,7 +128,7 @@ title: COINE
     </tr>
     <tr>
       <td style="background-color: rgb(230, 230, 230);" align="left" valign="top">17h05 - 17h45</td>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b><a href="https://app.wooclap.com/COINE2026">Reflections</a> and Closing Session</b></td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b><a href="./assets/results.pdf"">Reflections</a> and Closing Session</b></td>
     </tr>
   </tbody>
 </table>
