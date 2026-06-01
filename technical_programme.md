@@ -128,7 +128,7 @@ title: COINE
     </tr>
     <tr>
       <td style="background-color: rgb(230, 230, 230);" align="left" valign="top">17h05 - 17h45</td>
-      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b><a href="./assets/results.pdf"">Reflections</a> and Closing Session</b></td>
+      <td style="background-color: rgb(230, 230, 230);" align="left" valign="top"><b><a href="./assets/results.pdf">Reflections</a> and Closing Session</b></td>
     </tr>
   </tbody>
 </table>
