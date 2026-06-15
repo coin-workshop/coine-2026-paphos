@@ -18,9 +18,9 @@ Authors are encouraged to incorporate feedback from their previous submissions a
 
 ## Format Instructions
 
-Please consult Springer’s Instructions for Authors of Proceedings and use either the LaTeX or the Word templates provided on the authors’ page, for the preparation of your papers: https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+Please consult Springer’s [Guidelines for Authors of Proceedings](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use either the LaTeX or the Word templates provided on the authors’ page, for the preparation of your papers.
 
-Please read carefully the instructions for authors: https://resource-cms.springernature.com/springer-cms/rest/v1/content/19242230/data/v17
+Please read carefully the Springer's technical [Instructions for Authors](https://media.springernature.com/original/springer-cms/rest/v1/content/27852130/data/Instructions%20for%20Authors%20PDF).
 
 Authors are encouraged to include their ORCIDs in their papers.
 
@@ -37,13 +37,13 @@ The corresponding author of each paper, acting on behalf of all of the authors o
 If the authors are interested in Open Access or Open Choice, please refer to [Open Access Publishing in Springer Computer Proceedings](https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings){:target="_blank"} webpage for prices and additional information. An invoicing address and the CC-BY License-to-Publish agreement must be submitted together with the other files for publication.
 
 ## Code of Conduct
-We ask all contributing authors to familiarise themselves with Springer Nature's Code of Conduct for book authors, available at:
-https://www.springernature.com/gp/authors/book-authors-code-of-conduct
+We ask all contributing authors to familiarise themselves with [Springer Nature's Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) for book authors.
+
 
 ## How to Submit
-Please upload to the received link a single compressed file (.zip) no later than **July 15th, 2026 AoE** containing
+Please upload to the link received by email a single compressed file (.zip) no later than **July 15th, 2026 AoE** containing:
   * all source files (LaTeX files with all the associated style files, special fonts and eps files incl. bib/bbl files, images, etc, or Word or rtf files)
   * the PDF version of the paper corresponding exactly to the final source files
   * the <a href="assets/License-to-Publish Form, Default Word Switzerland.docx" target="_blank">License-to-Publish form</a>, signed by hand by the corresponding author
-on behalf of all of the authors of the paper.
+on behalf of all of the authors of the paper
   * a summary of their responses to the reviewers' comments and any changes made for the post-proceeding version.
