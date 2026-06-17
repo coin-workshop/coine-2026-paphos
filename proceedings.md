@@ -46,4 +46,4 @@ Please upload to the link received by email a single compressed file (.zip) no l
   * the PDF version of the paper corresponding exactly to the final source files
   * the <a href="assets/License-to-Publish Form, Default Word Switzerland.docx" target="_blank">License-to-Publish form</a>, signed by hand by the corresponding author
 on behalf of all of the authors of the paper
-  * a summary of their responses to the reviewers' comments and any changes made for the post-proceeding version.
+  * a summary of the responses to the reviewers' comments and any changes made for the post-proceeding version.
